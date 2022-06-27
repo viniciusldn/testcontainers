@@ -1,0 +1,11 @@
+ignore_files:
+  - pom.xml
+  - src/main/java/com/trybe/acc/java/testcontainers/endpoint/ProdutoController.java
+  - src/main/java/com/trybe/acc/java/testcontainers/persistence/Produto.java
+  - src/main/java/com/trybe/acc/java/testcontainers/persistence/ProdutoDao.java
+  - src/main/java/com/trybe/acc/java/testcontainers/persistence/ProdutoRepository.java
+  - src/main/java/com/trybe/acc/java/testcontainers/service/ProdutoService.java
+  - src/test/java/com/trybe/acc/java/testcontainers/TesteContainerApplicationTests.java
+  - mvnw
+  - .mvn/
+  - docker/

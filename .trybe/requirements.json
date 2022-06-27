@@ -1,0 +1,25 @@
+{
+  "requirements": [
+  
+    {
+      "description": "1 - Deve cadastrar um novo produto com sucesso.",
+      "bonus": false
+    },
+    {
+      "description": "2 - Deve listar todos os produtos com sucesso.",
+      "bonus": false
+    },
+    {
+      "description": "3 - Deve buscar um produto pelo id com sucesso.",
+      "bonus": false
+    },
+    {
+      "description": "4 - Deve atualizar um produto pelo id com sucesso.",
+      "bonus": false
+    },
+    {
+      "description": "5 - Deve excluir um produto pelo id com sucesso.",
+      "bonus": false
+    }
+  ]
+}
